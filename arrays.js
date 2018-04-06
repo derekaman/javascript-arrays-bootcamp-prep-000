@@ -31,6 +31,6 @@ function destructivelyAddElementToEndOfArray(array, element) {
   //}
   
   function removeElementFromBeginningOfArray(array) {
-    var newArray = array.slice(index);
+    var newArray = array.slice(n);
     return newArray
   }

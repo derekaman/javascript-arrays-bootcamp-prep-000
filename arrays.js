@@ -20,14 +20,14 @@ function destructivelyAddElementToEndOfArray(array, element) {
   return array;
 }
 
-function accessElementInArray(array, index) {
-  console.log(array[index]);
-  return element;
-}
+//function accessElementInArray(array, index) {
+  //console.log(array[index]);
+ // return element;
+//}
   
-function destructivelyRemoveElementFromBeginningOfArray(array) {
-  array.shift();
-  return array;
+//function destructivelyRemoveElementFromBeginningOfArray(array) {
+  //array.shift();
+ // return array;
 }
   
 function removeElementFromBeginningOfArray(array) {

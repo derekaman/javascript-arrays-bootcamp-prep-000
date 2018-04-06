@@ -20,17 +20,19 @@ function destructivelyAddElementToEndOfArray(array, element) {
   return array;
 }
 
-//function accessElementInArray(array, index) {
-  //console.log(array[index]);
-  //return index;
-  //}
+function accessElementInArray(array, index) {
+  console.log(array[index]);
+  return index;
+}
   
   //function destructivelyRemoveElementFromBeginningOfArray(array) {
-    //array.shift(index);
+    //array.shift();
     //return array;
   //}
   
-  function removeElementFromBeginningOfArray(array) {
-    var newArray = array.slice(n);
-    return newArray
-  }
+  //function removeElementFromBeginningOfArray(array) {
+    //var newArray = array.slice();
+    //return newArray
+  //}
+  
+  
